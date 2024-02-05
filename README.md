@@ -9,7 +9,7 @@ riproduzione della celebre piattaforma di arcihiviazione drink!
 
 **Framework utilizzato: ## React!!!
 
-![image](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/5cb87fe5-db85-4f1f-a159-fdbc10fab1ad)
+![WikiDrink](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/759c8db0-de4b-4c9a-a804-ff619d7a90de)
 
 
 ### Pianola
