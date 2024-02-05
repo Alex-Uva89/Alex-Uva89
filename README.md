@@ -10,7 +10,19 @@ riproduzione della celebre piattaforma di arcihiviazione drink!
 **Framework utilizzato: ## React!!!
 
 ![WikiDrink](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/18170f59-b471-4be1-b7ab-afbfe6ae1434)
+link al [sito]
 
+#
+
+### Wiki Drink
+Riproduzione di un di wallet desktop/mobile
+
+**Framework utilizzato: ## Next.js!!!
+
+![image](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/405f72a0-5f89-4312-a51e-00290f9d5277)
+link del [sito](https://incredible-snickerdoodle-e25235.netlify.app/](https://statuesque-semolina-3093ec.netlify.app/))
+
+#
 
 ### Pianola
 Web app funzionante anche su mobile. 
@@ -18,7 +30,7 @@ Web app funzionante anche su mobile.
 **Linguaggio utilizzato: ## Javascript!!!
 
 ![image](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/2f267559-efab-4370-bf3b-4b8adf5e5621)
-Preview del [app](https://incredible-snickerdoodle-e25235.netlify.app/)
+link dell'[app](https://incredible-snickerdoodle-e25235.netlify.app/)
 
 
 ## 🛠 Competenze
@@ -33,3 +45,5 @@ Preview del [app](https://incredible-snickerdoodle-e25235.netlify.app/)
 - LinkedIn: (https://www.linkedin.com/in/alessandro-uva/)
 
 Se sei interessato a collaborare o vuoi semplicemente scambiare idee, non esitare a contattarmi! 🚀
+
+
