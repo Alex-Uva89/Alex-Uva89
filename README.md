@@ -4,11 +4,18 @@ Sono un appassionato di **UI/UX design** con una passione per la creazione di es
 
 ## 🎨 Progetti Recenti
 
-### [Nome del Progetto 1]
-Breve descrizione del progetto e ruolo svolto. Includi screenshot o link al codice.
+### Wiki Drink
+riproduzione della celebre piattaforma di arcihiviazione drink! 
+
+**Framework utilizzato: ## React!!!
+
+![image](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/5cb87fe5-db85-4f1f-a159-fdbc10fab1ad)
+
 
 ### Pianola
-Altra breve descrizione e dettagli. Mostra il tuo talento nel design!
+Web app funzionante anche su mobile. 
+
+**Linguaggio utilizzato: ## Javascript!!!
 
 ![image](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/2f267559-efab-4370-bf3b-4b8adf5e5621)
 
