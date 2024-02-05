@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   <h1>
+     Il tuo contenuto HTML generato da Markdown va qui
+   </h1>
+</body>
+</html>
+
+
 # Ciao, sono Alessandro Uva!!! 👋
 
 Sono un appassionato di **UI/UX design** con una passione per la creazione di esperienze utente coinvolgenti e intuitive. Qui troverai una panoramica dei miei progetti e delle mie competenze.
