@@ -9,7 +9,7 @@ riproduzione della celebre piattaforma di arcihiviazione drink!
 
 **Framework utilizzato: ## React!!!
 
-![WikiDrink](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/759c8db0-de4b-4c9a-a804-ff619d7a90de)
+![WikiDrink](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/18170f59-b471-4be1-b7ab-afbfe6ae1434)
 
 
 ### Pianola
@@ -18,6 +18,7 @@ Web app funzionante anche su mobile.
 **Linguaggio utilizzato: ## Javascript!!!
 
 ![image](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/2f267559-efab-4370-bf3b-4b8adf5e5621)
+Preview del [app](https://incredible-snickerdoodle-e25235.netlify.app/)
 
 
 ## 🛠 Competenze
