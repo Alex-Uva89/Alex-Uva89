@@ -32,7 +32,7 @@ riproduzione della celebre piattaforma di arcihiviazione drink!
 Riproduzione di un di wallet desktop/mobile<br>
 <b>Framework utilizzato: <i>Next.js</i>!!!</b>
 
-[![image](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/405f72a0-5f89-4312-a51e-00290f9d5277)](https://incredible-snickerdoodle-e25235.netlify.app/](https://statuesque-semolina-3093ec.netlify.app/))
+[![image](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/405f72a0-5f89-4312-a51e-00290f9d5277)](https://dchatuva.netlify.app/)
 
 #
 
