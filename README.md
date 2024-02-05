@@ -4,6 +4,7 @@ Sono un **Frontend Developer** appassionato di **UI/UX design** con una passione
 
 ## Linguaggi utilizzati:
 
+![Alt text]()
 
 
 ## 🎨 Progetti Recenti
