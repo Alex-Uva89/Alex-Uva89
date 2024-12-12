@@ -27,6 +27,13 @@ Progetto elaborato per la catena di ristoranti MAMMA ELVIRA
 
 [![MenuFECucina](https://github.com/user-attachments/assets/ec4f0805-397b-4f7b-a892-dc7044f07f6e)](https://menu-mammaelvira-fe-80d79ebfc254.herokuapp.com/La%20Cucina)
 
+> NOTA BENE!! Assieme al menù è stato sviluppato anche il gestione per l'inserimento dei dati del mnù, per esigenze del committente non è stato voluto inserire un login, quindi non posso inserire pubblicamente l'accesso al gestionale, riporto qui sotto però l'aspetto grafico. 
+
+<b>Framework utilizzato: <i>Vue.js</i> + <i> Laravel </i></b>
+
+![Gestionale_mamma_elvira](https://github.com/user-attachments/assets/8798b906-a688-4339-8f68-88f12ce64c4a)
+
+
 #
 <strong><I>DWALLET</I></strong><br>
 Riproduzione di un di wallet desktop/mobile<br>
