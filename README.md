@@ -25,7 +25,7 @@ Progetto elaborato per la catena di ristoranti MAMMA ELVIRA
 <b>Framework utilizzato: <i>Vue.js</i>!!!</b>
 
 
-![MenuFECucina](https://github.com/user-attachments/assets/ec4f0805-397b-4f7b-a892-dc7044f07f6e)(https://menu-mammaelvira-fe-80d79ebfc254.herokuapp.com/La%20Cucina)
+[![MenuFECucina](https://github.com/user-attachments/assets/ec4f0805-397b-4f7b-a892-dc7044f07f6e)](https://menu-mammaelvira-fe-80d79ebfc254.herokuapp.com/La%20Cucina)
 
 #
 <strong><I>DWALLET</I></strong><br>
