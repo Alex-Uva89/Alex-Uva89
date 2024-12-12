@@ -19,13 +19,13 @@ Sono un **Frontend Developer** appassionato di **UI/UX design** con una passione
 > le immagini sottostanti, non sono solo illustrative, cliccando su di esse, si potrà accedere direttamente al sito per provarlo!!! 
 <br>
 <br>
-<strong><I>WIKI DRINK</I></strong><br>
-riproduzione della celebre piattaforma di arcihiviazione drink!
+<strong><I>MENU MAMMA ELVIRA</I></strong><br>
+Progetto elaborato per la catena di ristoranti MAMMA ELVIRA
  
-<b>Framework utilizzato: <i>React.js</i>!!!</b>
+<b>Framework utilizzato: <i>Vue.js</i>!!!</b>
 
 
-![WikiDrink](https://github.com/Alex-Uva89/Alex-Uva89/assets/96201447/18170f59-b471-4be1-b7ab-afbfe6ae1434)
+![MenuFECucina](https://github.com/user-attachments/assets/ec4f0805-397b-4f7b-a892-dc7044f07f6e)(https://menu-mammaelvira-fe-80d79ebfc254.herokuapp.com/La%20Cucina)
 
 #
 <strong><I>DWALLET</I></strong><br>
